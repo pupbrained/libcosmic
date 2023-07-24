@@ -1,4 +1,4 @@
 [submodule "iced"]
 	path = iced
-	url = https://github.com/pupbrained/iced.git
+	url = https://github.com/pupbrained/iced
 	branch = master
